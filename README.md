@@ -1,1 +1,1 @@
-Homework module 2
+goit-js-hw-02
